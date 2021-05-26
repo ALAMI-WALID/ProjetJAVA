@@ -28,41 +28,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/webapp/aaa</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/images</location>
-		</link>
-		<link>
-			<name>src/main/webapp/css</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/css</location>
-		</link>
-		<link>
-			<name>src/main/webapp/fonts</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/fonts</location>
-		</link>
-		<link>
-			<name>src/main/webapp/ggv</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/images</location>
-		</link>
-		<link>
-			<name>src/main/webapp/images</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/images</location>
-		</link>
-		<link>
-			<name>src/main/webapp/js</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/js</location>
-		</link>
-		<link>
-			<name>src/main/webapp/scss</name>
-			<type>2</type>
-			<location>C:/Users/lenovo/Desktop/mes études/semestre 6/developpement web/Prjet/studylab-main/styel/scss</location>
-		</link>
-	</linkedResources>
 </projectDescription>
